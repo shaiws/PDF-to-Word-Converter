@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 
 ## Usage
+Follow this before running: https://pdf2image.readthedocs.io/en/latest/installation.html
 
 To use the script from the command line, use the following format:
 
