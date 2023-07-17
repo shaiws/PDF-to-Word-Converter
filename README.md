@@ -25,7 +25,7 @@ Follow this before running: https://pdf2image.readthedocs.io/en/latest/installat
 To use the script from the command line, use the following format:
 
 ```bash
-python script.py input.pdf output.docx --width 5.0
+python converter.py input.pdf output.docx --width 5.0
 ```
 
 - `input.pdf` is the path to the PDF file you want to convert.
